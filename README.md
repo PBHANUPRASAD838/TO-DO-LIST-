@@ -28,5 +28,3 @@ This C++ program is a simple to-do list application that allows you to add, view
 ## Contributing
 
 We welcome contributions to improve this project. Please fork the repository, make your changes, and create a pull request.
-
-I hope this is a good starting point for your README file. You can customize it further by adding details like your email address, website, and any specific contribution guidelines you have.
